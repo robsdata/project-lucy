@@ -1,1 +1,1 @@
-# programming-ufg
+# Project Lucy
